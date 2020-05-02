@@ -1,7 +1,8 @@
 
-## @color[#e49436](Git)Pitch
-
----?image=![background](https://user-images.githubusercontent.com/61288928/80871939-c0ff1f80-8c7c-11ea-8a64-e3a97c30b9ec.jpg)
+body {
+ background-image: url("![background](https://user-images.githubusercontent.com/61288928/80871939-c0ff1f80-8c7c-11ea-8a64-e3a97c30b9ec.jpg)");
+ background-color: #cccccc;
+}
 
 ## Welcome to GitHub Pages
 
