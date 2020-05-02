@@ -14,7 +14,7 @@ h2 {
 }
 img {
  margin-top: 10px;
- style="float:left";
+ float: left;
  }
 </style>
 </head>
