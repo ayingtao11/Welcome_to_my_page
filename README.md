@@ -9,7 +9,7 @@ body  {
 h2 {
   text-align: center;
   display: inline;
-  padding: 0 30px 0 30px;
+  padding: 0 40px 0 40px;
   width: 100%;
 }
 
