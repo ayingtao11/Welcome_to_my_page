@@ -10,15 +10,6 @@ body  {
 </head>
 <body>
 
-<header>
-    <div id="idk">    
-        <h2 id="home_link">H1</h2>
-        <h2 id="projects_link">P2</h2>
-        <img id="logo" src="images/logo.png"/>
-        <h2 id="services_link">S3</h2>
-        <h2 id="contact_link">C4</h2>
-    </div>
-</header>
 
 <p>Hello World!</p>
 
@@ -28,9 +19,11 @@ body  {
     <a class="active" href="#home">Home</a>
     <a href="#contact">Contact</a>
     <a href="#about">About</a>
+    <<a name="top"></a>>
   </div>
 </div>
 
+<a href="#top">link to top</a>
 
 
 </body>
