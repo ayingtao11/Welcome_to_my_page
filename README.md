@@ -18,10 +18,10 @@ img {
  }
  span {
   float: right;
-  
-  font-size: 200%;
+  width: 0.1em;
+  font-size: 400%;
   font-family: algerian, courier;
-  
+  line-height: 80%;
 }
 </style>
 </head>
