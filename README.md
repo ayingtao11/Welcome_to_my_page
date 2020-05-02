@@ -27,7 +27,7 @@ h2 {
 <div class="header">
   <a href="https://github.com/ayingtao11/github.io/edit/master/README.md" class="edit">edit</a>
   <br>
-  <div class="header-right">
+  <div class="sub_headers">
     <h2><a href="#home">Home</a></h2>
     <h2><a href="#contact">Contact</a></h2>
     <h2><a href="#about">About</a></h2>
