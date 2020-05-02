@@ -13,14 +13,15 @@ h2 {
   width: 100%;
 }
 
-
-
 </style>
 </head>
 <body>
 
 
-<p>Hello World!</p>
+<p>Class: CISC 3130
+   Section: TY2
+   EmplId: 5107
+   Name: XinJin Weng</p>
 
 <div class="header">
   <a href="https://github.com/ayingtao11/github.io/edit/master/README.md" class="edit">edit</a>
