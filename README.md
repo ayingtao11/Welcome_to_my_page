@@ -19,7 +19,7 @@ img {
  span {
   float: right;
   width: 0.1em;
-  font-size: 400%;
+  font-size: 100%;
   font-family: algerian, courier;
   line-height: 80%;
 }
