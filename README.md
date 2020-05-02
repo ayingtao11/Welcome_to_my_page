@@ -6,8 +6,7 @@ body  {
   background-image: url("https://user-images.githubusercontent.com/61288928/80871939-c0ff1f80-8c7c-11ea-8a64-e3a97c30b9ec.jpg");
   background-color: #cccccc;
 }
-h2 {
-  overflow: hidden;
+#hearder-right {
   text-align: center;
   display: inline;
   padding: 0 20px 0 20px;
@@ -26,7 +25,7 @@ h2 {
   <a href="https://github.com/ayingtao11/github.io/edit/master/README.md" class="edit">edit</a>
   <br>
   <div class="header-right">
-    <h2><a class="active" href="#home">Home</a></h2>
+    <h2><a href="#home">Home</a></h2>
     <h2><a href="#contact">Contact</a></h2>
     <h2><a href="#about">About</a></h2>
     <h2><a href="#top">link to top</a></h2>
