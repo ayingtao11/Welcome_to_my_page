@@ -10,29 +10,10 @@ h2 {
   overflow: hidden;
   text-align: center;
   display: inline;
-  padding: 0 10px 0 10px;
+  padding: 0 20px 0 20px;
 }
 
-h2:before,
-h2:after {
-  background-color: #000;
-  content: "";
-  display: inline-block;
-  height: 1px;
-  position: relative;
-  vertical-align: middle;
-  width: 50%;
-}
 
-h2:before {
-  right: 0.5em;
-  margin-left: -50%;
-}
-
-h2:after {
-  left: 0.5em;
-  margin-right: -50%;
-}
 
 </style>
 </head>
