@@ -14,12 +14,12 @@ h2 {
 }
 img {
  margin-top: 10px;
- 
+ float: left;
  }
  span {
   float: right;
   width: 0.1em;
-  font-size: 100%;
+  font-size: 200%;
   font-family: algerian, courier;
   line-height: 80%;
 }
