@@ -6,6 +6,18 @@ body  {
   background-image: url("https://user-images.githubusercontent.com/61288928/80871939-c0ff1f80-8c7c-11ea-8a64-e3a97c30b9ec.jpg");
   background-color: #cccccc;
 }
+  h2 {
+   width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px; 
+} 
+
+h2 span { 
+    background:#fff; 
+    padding:0 10px; 
+}
 </style>
 </head>
 <body>
@@ -44,18 +56,7 @@ body  {
 </body>
 </html>
 
-h2 {
-   width: 100%; 
-   text-align: center; 
-   border-bottom: 1px solid #000; 
-   line-height: 0.1em;
-   margin: 10px 0 20px; 
-} 
 
-h2 span { 
-    background:#fff; 
-    padding:0 10px; 
-}
 
 
 ## Welcome to GitHub Pages
