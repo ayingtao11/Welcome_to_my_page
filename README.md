@@ -14,15 +14,33 @@ body  {
 
 <header>
     <div id="ninesixty">    
-        <h1 id="home_link">HOME</h1>
-        <h1 id="projects_link">PROJECTS</h1>
+        <h2 id="home_link">H1</h2>
+        <h2 id="projects_link">P2</h2>
         <img id="logo" src="images/logo.png"/>
-        <h1 id="services_link">SERVICES</h1>
-        <h1 id="contact_link">CONTACT</h1>
+        <h2 id="services_link">S3</h2>
+        <h2 id="contact_link">C4</h2>
     </div>
 </header>
 
 <p>Hello World!</p>
+
+header
+{
+background-color:white;
+text-align:center;
+}
+
+#ninesixty
+{
+    height:900px;
+    width:960px;
+    margin-top:40px;
+    background-color:white;
+    margin: 0 auto;
+    text-align:center;
+    border-radius:8px;
+    display:inline-block;
+}
 
 </body>
 </html>
