@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/ayingtao11/github.io/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-background-image: url(image.jpg)
-
-# Slide with background image
+body {
+background-image: url("https://cache.desktopnexus.com/cropped-wallpapers/2168/2168001-1366x768-[DesktopNexus.com].jpg?st=a2_rZqN_tZg3LwpNGn7lRw&e=1588443821")
+}
 
 ### Markdown
 
