@@ -10,10 +10,8 @@ body  {
 </head>
 <body>
 
-<h1>The background-image Property</h1>
-
 <header>
-    <div id="ninesixty">    
+    <div id="idk">    
         <h2 id="home_link">H1</h2>
         <h2 id="projects_link">P2</h2>
         <img id="logo" src="images/logo.png"/>
@@ -24,23 +22,6 @@ body  {
 
 <p>Hello World!</p>
 
-header
-{
-background-color:white;
-text-align:center;
-}
-
-#ninesixty
-{
-    height:900px;
-    width:960px;
-    margin-top:40px;
-    background-color:white;
-    margin: 0 auto;
-    text-align:center;
-    border-radius:8px;
-    display:inline-block;
-}
 
 </body>
 </html>
