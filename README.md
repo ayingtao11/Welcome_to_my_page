@@ -15,12 +15,16 @@ body  {
 
 <div class="header">
   <a href="https://github.com/ayingtao11/github.io/edit/master/README.md" class="edit">edit</a>
+  <br>
   <div class="header-right">
     <h2><a class="active" href="#home">Home</a></h2>
     <h2><a href="#contact">Contact</a></h2>
     <h2><a href="#about">About</a></h2>
     <h2><a href="#top">link to top</a></h2>
-    
+    h2 {
+    display: inline-block;
+    position: relative;
+}
   </div>
 </div>
 
