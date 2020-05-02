@@ -12,7 +12,9 @@ h2 {
   padding: 0 40px 0 40px;
   width: 100%;
 }
-
+img {
+ verticle-align: middle;
+ }
 </style>
 </head>
 <body>
@@ -38,9 +40,9 @@ h2 {
 <h1>Welcome</h1>
 <h1>Ready or Not</h1>
 <img src="https://user-images.githubusercontent.com/61288928/80894075-8f4e7e80-8ca5-11ea-809b-6af13dfa2143.jpg" alt="Image" height="400" width="300">
-<p>
+<span>
  A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
-</p>
+</span>
 <p>
  Directors: Matt Bettinelli-Olpin, Tyler Gillett
  <br>
