@@ -19,11 +19,12 @@ body  {
     <a class="active" href="#home">Home</a>
     <a href="#contact">Contact</a>
     <a href="#about">About</a>
-    <<a name="top"></a>>
+    <a href="#top">link to top</a>
+    
   </div>
 </div>
 
-<a href="#top">link to top</a>
+<a name="top"></a>
 
 
 </body>
