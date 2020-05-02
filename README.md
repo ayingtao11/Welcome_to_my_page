@@ -10,7 +10,7 @@ h2 {
   overflow: hidden;
   text-align: center;
   display: inline;
-  padding: 10px 0 10px 0;
+  padding: 0px 10 0px 10;
 }
 
 h2:before,
