@@ -14,7 +14,7 @@ body  {
 <p>Hello World!</p>
 
 <div class="header">
-  <a href="#default" class="https://github.com/ayingtao11/github.io/edit/master/README.md">edit</a>
+  <a href="https://github.com/ayingtao11/github.io/edit/master/README.md" class="edit">edit</a>
   <div class="header-right">
     <a class="active" href="#home">Home</a>
     <a href="#contact">Contact</a>
