@@ -8,6 +8,7 @@ body  {
 }
 h2 {
   text-align: center;
+  position: fixed;
   display: inline;
   padding: 0 20px 0 20px;
   width: 100%;
