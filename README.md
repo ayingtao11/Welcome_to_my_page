@@ -37,7 +37,7 @@ h2 {
 <hr>
 <h1>Welcome</h1>
 <h1>Ready or Not</h1>
-<img src="https://user-images.githubusercontent.com/61288928/80894075-8f4e7e80-8ca5-11ea-809b-6af13dfa2143.jpg" alt="Image" height="350" width="300">
+<img src="https://user-images.githubusercontent.com/61288928/80894075-8f4e7e80-8ca5-11ea-809b-6af13dfa2143.jpg" alt="Image" height="400" width="300">
 <p>
  A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
 </p>
