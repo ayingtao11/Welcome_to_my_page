@@ -21,10 +21,7 @@ body  {
     <h2><a href="#contact">Contact</a></h2>
     <h2><a href="#about">About</a></h2>
     <h2><a href="#top">link to top</a></h2>
-    h2 {
-    display: inline-block;
-    position: relative;
-}
+   
   </div>
 </div>
 
@@ -46,6 +43,19 @@ body  {
 
 </body>
 </html>
+
+h2 {
+   width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px; 
+} 
+
+h2 span { 
+    background:#fff; 
+    padding:0 10px; 
+}
 
 
 ## Welcome to GitHub Pages
