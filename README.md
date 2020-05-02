@@ -1,4 +1,9 @@
+<!-- leave a blank line here -->
+<script src="https://gitlab.com/gitlab-org/gitlab-ce/snippets/1717978.js"></script>
+<!-- leave a blank line here -->
+
 ---?image=![background](https://user-images.githubusercontent.com/61288928/80871939-c0ff1f80-8c7c-11ea-8a64-e3a97c30b9ec.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ayingtao11/github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
