@@ -10,7 +10,7 @@ h2 {
   text-align: center;
   position: fixed;
   display: inline;
-  padding: 0 30px 0 30px;
+  
   width: 100%;
 }
 
