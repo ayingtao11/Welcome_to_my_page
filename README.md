@@ -16,10 +16,10 @@ body  {
 <div class="header">
   <a href="https://github.com/ayingtao11/github.io/edit/master/README.md" class="edit">edit</a>
   <div class="header-right">
-    <a class="active" href="#home">Home</a>
-    <a href="#contact">Contact</a>
-    <a href="#about">About</a>
-    <a href="#top">link to top</a>
+    <h2><a class="active" href="#home">Home</a></h2>
+    <h2><a href="#contact">Contact</a></h2>
+    <h2><a href="#about">About</a></h2>
+    <h2><a href="#top">link to top</a></h2>
     
   </div>
 </div>
