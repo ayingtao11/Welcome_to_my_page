@@ -13,7 +13,8 @@ h2 {
   width: 100%;
 }
 img {
- verticle-align: middle;
+ display: inline-block;
+ margin-top: 10px;
  }
 </style>
 </head>
