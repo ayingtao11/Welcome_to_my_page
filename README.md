@@ -1,4 +1,9 @@
-
+/* Class: CISC 3130
+ * Section: TY2
+ * EmplId: 23825107
+ * Name: XinJin Weng
+ */
+ 
 <html>
 <head>
 <style>
@@ -20,7 +25,6 @@ h2 {
 
 <p>Class: CISC 3130
    Section: TY2
-   EmplId: 5107
    Name: XinJin Weng</p>
 
 <div class="header">
@@ -31,10 +35,9 @@ h2 {
     <h2><a href="#contact">Contact</a></h2>
     <h2><a href="#about">About</a></h2>
     <h2><a href="#top">link to top</a></h2>
-   
   </div>
 </div>
-
+<hr>
 <h1>Welcome</h1>
 <h1>Welcome</h1>
 <h1>Welcome</h1>
