@@ -9,6 +9,7 @@ body  {
 h2 {
   overflow: hidden;
   text-align: center;
+  display: inline;
 }
 
 h2:before,
