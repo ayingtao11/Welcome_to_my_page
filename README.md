@@ -11,6 +11,7 @@ body  {
 <body>
 
 <h1>The background-image Property</h1>
+## Welcome to GitHub Pages
 
 <p>Hello World!</p>
 
