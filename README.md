@@ -41,11 +41,13 @@ h2 {
 <p>
  A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
 </p>
-<br>
 <p>
  Directors: Matt Bettinelli-Olpin, Tyler Gillett
+ <br>
  Writers: Guy Busick, R. Christopher Murphy
+ <br>
  Stars: Samara Weaving, Adam Brody, Mark O'Brien...
+ <br>
 </p>
 <h1>Welcome</h1>
 <h1>Welcome</h1>
