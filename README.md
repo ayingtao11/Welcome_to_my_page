@@ -13,8 +13,8 @@ h2 {
   width: 100%;
 }
 img {
- display: inline-block;
  margin-top: 10px;
+ style="float:left";
  }
 </style>
 </head>
