@@ -11,7 +11,16 @@ body  {
 <body>
 
 <h1>The background-image Property</h1>
-## Welcome to GitHub Pages
+
+<header>
+    <div id="ninesixty">    
+        <h1 id="home_link">HOME</h1>
+        <h1 id="projects_link">PROJECTS</h1>
+        <img id="logo" src="images/logo.png"/>
+        <h1 id="services_link">SERVICES</h1>
+        <h1 id="contact_link">CONTACT</h1>
+    </div>
+</header>
 
 <p>Hello World!</p>
 
