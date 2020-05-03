@@ -47,6 +47,7 @@ img {
 <br>
 <h1>Home</h1>
 
+<br>
 <p>Since I don't know what to write, I just put some movies I like.</p>
 
 <br>
