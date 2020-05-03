@@ -15,7 +15,7 @@ h2 {
 }
 img {
  margin-top: 10px;
- 
+ align: left;
  }
  span {
   
