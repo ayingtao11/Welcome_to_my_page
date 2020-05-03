@@ -39,7 +39,7 @@ img {
   </div>
 </div>
 <hr>
-<h1><strong>Welcome</strong></h1>
+<h1>Welcome</h1>
 <h1>Ready or Not</h1>
 <p>
 <img src="https://user-images.githubusercontent.com/61288928/80894075-8f4e7e80-8ca5-11ea-809b-6af13dfa2143.jpg" alt="Image" height="400" width="300" style="float:left"/>
@@ -49,14 +49,14 @@ img {
  </p>
 
 <p>
- Directors: Matt Bettinelli-Olpin, Tyler Gillett
+ <strong>Directors</strong>: Matt Bettinelli-Olpin, Tyler Gillett
  <br>
- Writers: Guy Busick, R. Christopher Murphy
+  <strong>Writers</strong>: Guy Busick, R. Christopher Murphy
  <br>
- Stars: Samara Weaving, Adam Brody, Mark O'Brien...
+  <strong>Stars</strong>: Samara Weaving, Adam Brody, Mark O'Brien...
  <br>
 </p>
-<h1><strong>Welcome</strong></h1>
+<h1>Welcome</h1>
 <h1>Welcome</h1>
 <h1>Welcome</h1>
 <h1>Welcome</h1>
