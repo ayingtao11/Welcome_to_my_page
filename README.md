@@ -42,7 +42,7 @@ img {
 <hr>
 <h1>Home</h1>
 
-<h1>Ready or Not</h1>
+<h1>Ready or Not<font size="-1">(2019)</font></h1>
 
 <img src="https://user-images.githubusercontent.com/61288928/80894075-8f4e7e80-8ca5-11ea-809b-6af13dfa2143.jpg" alt="Image" height="400" width="300">
 <p>
@@ -57,7 +57,7 @@ img {
  <br>
 </p>
 
-<h1>Pokémon Detective Pikachu</h1>
+<h1>Pokémon Detective Pikachu<font size="-1">(2019)</font></h1>
 
 <img src="https://user-images.githubusercontent.com/61288928/80895493-a5633b80-8cb3-11ea-8fd5-e19aada4e0e0.jpg" alt="Image" height="400" width="300">
 <p>
