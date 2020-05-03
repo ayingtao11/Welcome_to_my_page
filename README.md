@@ -33,14 +33,20 @@ img {
   <a href="https://github.com/ayingtao11/github.io/edit/master/README.md" class="edit">edit in Github</a>
   <br>
   <div class="sub_headers">
-    <h2><a href="#home">Home</a></h2>
+    <h2><a href="#Home">Home</a></h2>
     <h2><a href="#contact">Contact</a></h2>
     <h2><a href="#about">About</a></h2>
     <h2><a href="#top">top</a></h2>
   </div>
 </div>
 <hr>
+<a name="Home"></a>
+<br>
+<br>
+<br>
 <h1>Home</h1>
+
+<p>Since I don't know what to write, I just put some movies I like.</p>
 
 <h1>Ready or Not <font size="-1">(2019)</font></h1>
 
