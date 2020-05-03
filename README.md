@@ -51,7 +51,7 @@ img {
 <span>
  A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
 </span>
-
+<br>
 <p>
  <strong>Directors</strong>: Matt Bettinelli-Olpin, Tyler Gillett
  <br>
