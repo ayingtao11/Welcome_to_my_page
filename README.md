@@ -56,7 +56,7 @@ img {
  Stars: Samara Weaving, Adam Brody, Mark O'Brien...
  <br>
 </p>
-<h1>Welcome</h1>
+<h1><strong>Welcome</strong></h1>
 <h1>Welcome</h1>
 <h1>Welcome</h1>
 <h1>Welcome</h1>
