@@ -40,16 +40,15 @@ img {
   </div>
 </div>
 <hr>
-<h1>Welcome</h1>
+<h1>Home</h1>
 
 <h1>Ready or Not</h1>
 
 <img src="https://user-images.githubusercontent.com/61288928/80894075-8f4e7e80-8ca5-11ea-809b-6af13dfa2143.jpg" alt="Image" height="400" width="300">
-<span>
- A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
-</span>
-<br>
 <p>
+ A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
+ <br>
+ <br>
  <strong>Directors</strong>: Matt Bettinelli-Olpin, Tyler Gillett
  <br>
  <strong>Writers</strong>: Guy Busick, R. Christopher Murphy
@@ -91,4 +90,4 @@ img {
 
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please check [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) if you have any issue.
