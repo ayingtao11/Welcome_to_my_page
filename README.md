@@ -1,3 +1,4 @@
+ //idk
  
 <html>
 <head>
@@ -14,14 +15,10 @@ h2 {
 }
 img {
  margin-top: 10px;
- float: left;
+ 
  }
  span {
-  float: right;
-  width: 0.1em;
-  font-size: 200%;
-  font-family: algerian, courier;
-  line-height: 80%;
+  
 }
 </style>
 </head>
@@ -47,7 +44,10 @@ img {
 <hr>
 <h1>Welcome</h1>
 <h1>Ready or Not</h1>
-<img src="https://user-images.githubusercontent.com/61288928/80894075-8f4e7e80-8ca5-11ea-809b-6af13dfa2143.jpg" alt="Image" height="400" width="300">
+<div>
+<img src="https://user-images.githubusercontent.com/61288928/80894075-8f4e7e80-8ca5-11ea-809b-6af13dfa2143.jpg" alt="Image" height="400" width="300" style="verticle-align:middle">
+ <a>idk</a>
+ </div>
 <span>
  A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
 </span>
