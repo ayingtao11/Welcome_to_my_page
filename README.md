@@ -87,7 +87,21 @@ img {
  <br>
 </p>
 
-<h1>Welcome</h1>
+<h1>Aladdin<font size="-1">(2019)</font></h1>
+
+<img src="https://user-images.githubusercontent.com/61288928/80896073-82875600-8cb8-11ea-94bd-21b9129d59a2.jpg" alt="Image" height="400" width="300">
+<p>
+ A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.
+ <br>
+ <br>
+ <strong>Director</strong>: Guy Ritchie
+ <br>
+ <strong>Writers</strong>: John August (screenplay by), Guy Ritchie (screenplay by)
+ <br>
+ <strong>Stars</strong>: Will Smith, Mena Massoud, Naomi Scott...
+ <br>
+</p>
+
 <h1>Welcome</h1>
 <h1>Welcome</h1>
 <h1>Welcome</h1>
