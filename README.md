@@ -72,7 +72,21 @@ img {
  <br>
 </p>
 
-<h1>Welcome</h1>
+<h1>Jumanji: The Next Level<font size="-2">(2019)</font></h1>
+
+<img src="https://user-images.githubusercontent.com/61288928/80895976-3daeef80-8cb7-11ea-8d64-4010d0587c20.jpg" alt="Image" height="400" width="300">
+<p>
+ When ace detective Harry Goodman goes missing, his son embarks on a journey with Detective Pikachu to find him.
+ <br>
+ <br>
+ <strong>Director</strong>: Rob Letterman
+ <br>
+ <strong>Writers</strong>: Dan Hernandez (screenplay by), Benji Samit (screenplay by)...
+ <br>
+ <strong>Stars</strong>: Ryan Reynolds, Justice Smith, Kathryn Newton...
+ <br>
+</p>
+
 <h1>Welcome</h1>
 <h1>Welcome</h1>
 <h1>Welcome</h1>
