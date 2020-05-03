@@ -63,9 +63,8 @@ img {
 <img src="https://user-images.githubusercontent.com/61288928/80895493-a5633b80-8cb3-11ea-8fd5-e19aada4e0e0.jpg" alt="Image" height="400" width="300">
 <p>
  When ace detective Harry Goodman goes missing, his son embarks on a journey with Detective Pikachu to find him.
-</p>
-<br>
-<p>
+ <br>
+ <br>
  <strong>Director</strong>: Rob Letterman
  <br>
  <strong>Writers</strong>: Dan Hernandez (screenplay by), Benji Samit (screenplay by)...
@@ -90,45 +89,6 @@ img {
 </body>
 </html>
 
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ayingtao11/github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
----?image=https://user-images.githubusercontent.com/61288928/80871939-c0ff1f80-8c7c-11ea-8a64-e3a97c30b9ec.jpg
-  
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ayingtao11/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
