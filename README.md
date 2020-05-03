@@ -30,7 +30,7 @@ img {
 </p>
 
 <div class="header">
-  <a href="https://github.com/ayingtao11/github.io/edit/master/README.md" class="edit">edit</a>
+  <a href="https://github.com/ayingtao11/github.io/edit/master/README.md" class="edit in Github">edit</a>
   <br>
   <div class="sub_headers">
     <h2><a href="#home">Home</a></h2>
