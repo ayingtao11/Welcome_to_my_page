@@ -46,11 +46,11 @@ img {
 <h1>Ready or Not</h1>
 <div>
 <img src="https://user-images.githubusercontent.com/61288928/80894075-8f4e7e80-8ca5-11ea-809b-6af13dfa2143.jpg" alt="Image" height="400" width="300" style="verticle-align:middle">
- <a>idk</a>
- </div>
-<span>
+ <span>
  A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.
 </span>
+ </div>
+
 <p>
  Directors: Matt Bettinelli-Olpin, Tyler Gillett
  <br>
