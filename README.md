@@ -10,7 +10,7 @@ body  {
 h2 {
   text-align: center;
   display: inline;
-  padding: 0 40px 0 40px;
+  padding: 0 50px 0 50px;
   width: 100%;
 }
 img {
@@ -36,7 +36,6 @@ img {
     <h2><a href="#Home">Home</a></h2>
     <h2><a href="#Source">Source</a></h2>
     <h2><a href="#Contact">Contact</a></h2>
-    <h2><a href="#top">top</a></h2>
   </div>
 </div>
 <hr>
@@ -158,11 +157,11 @@ img {
 <p>Please check <a href="https://help.github.com/categories/github-pages-basics/">documentation</a> or <a href="https://github.com/contact">contact support</a> of Github if you have any issue.</p>
 
 
-<a name="top"></a>
+
 <br>
 <br>
 <br>
-<h1>top</h1>
+
 
 
 
