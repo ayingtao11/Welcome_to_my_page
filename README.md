@@ -34,8 +34,8 @@ img {
   <br>
   <div class="sub_headers">
     <h2><a href="#Home">Home</a></h2>
+    <h2><a href="#Source">Source</a></h2>
     <h2><a href="#Contact">Contact</a></h2>
-    <h2><a href="#about">About</a></h2>
     <h2><a href="#top">top</a></h2>
   </div>
 </div>
@@ -84,6 +84,8 @@ img {
  <br>
  <strong>Stars</strong>: Ryan Reynolds, Justice Smith, Kathryn Newton...
  <br>
+ <br>
+ Want to see more? Visit <a href="https://www.imdb.com/title/tt5884052/">Pokémon Detective Pikachu (2019) - IMDb</a> for more information.
 </p>
 
 <h1>Jumanji: The Next Level <font size="-1">(2019)</font></h1>
@@ -99,6 +101,8 @@ img {
  <br>
  <strong>Stars</strong>: Dwayne Johnson, Jack Black, Kevin Hart...
  <br>
+ <br>
+ Want to see more? Visit <a href="https://www.imdb.com/title/tt7975244/">Jumanji: The Next Level (2019) - IMDb</a> for more information.
 </p>
 
 <h1>Aladdin <font size="-1">(2019)</font></h1>
@@ -114,6 +118,8 @@ img {
  <br>
  <strong>Stars</strong>: Will Smith, Mena Massoud, Naomi Scott...
  <br>
+ <br>
+ Want to see more? Visit <a href="https://www.imdb.com/title/tt6139732/">Aladdin (2019) - IMDb</a> for more information.
 </p>
 
 <h1>The Lion King <font size="-1">(2019)</font></h1>
@@ -129,7 +135,16 @@ img {
  <br>
  <strong>Stars</strong>:  Donald Glover, Beyoncé, Seth Rogen...
  <br>
+ <br>
+ Want to see more? Visit <a href="https://www.imdb.com/title/tt6105098/">The Lion King (2019) - IMDb</a> for more information.
 </p>
+
+<a name="Source"></a>
+<br>
+<br>
+<br>
+<h1>Source</h1>
+<p>All Sources are from <a href="https://www.imdb.com/">IMDb.com</a>.</p>
 
 <a name="Contact"></a>
 <br>
@@ -139,7 +154,7 @@ img {
 
 <p>Please check <a href="https://help.github.com/categories/github-pages-basics/">documentation</a> or <a href="https://github.com/contact">contact support</a> of Github if you have any issue.</p>
 
-<h1>Welcome</h1>
+
 <a name="top"></a>
 <br>
 <br>
