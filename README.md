@@ -83,6 +83,9 @@ img {
  <br>
  <strong>Stars</strong>: Ryan Reynolds, Justice Smith, Kathryn Newton...
  <br>
+ <video width="1280" height="720" controls>
+  <source src="https://www.imdb.com/video/vi3254238233?playlistId=tt5884052" type="video/mp4">
+  </video>
  <br>
  Want to see more? Visit <a href="https://www.imdb.com/title/tt5884052/">Pokémon Detective Pikachu (2019) - IMDb</a> for more information.
 </p>
