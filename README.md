@@ -76,14 +76,14 @@ img {
 
 <img src="https://user-images.githubusercontent.com/61288928/80895976-3daeef80-8cb7-11ea-8d64-4010d0587c20.jpg" alt="Image" height="400" width="300">
 <p>
- When ace detective Harry Goodman goes missing, his son embarks on a journey with Detective Pikachu to find him.
+ In Jumanji: The Next Level, the gang is back but the game has changed. As they return to rescue one of their own, the players will have  to brave parts unknown from arid deserts to snowy mountains, to escape the world's most dangerous game.
  <br>
  <br>
- <strong>Director</strong>: Rob Letterman
+ <strong>Director</strong>: Jake Kasdan
  <br>
- <strong>Writers</strong>: Dan Hernandez (screenplay by), Benji Samit (screenplay by)...
+ <strong>Writers</strong>: Jake Kasdan, Jeff Pinkner...
  <br>
- <strong>Stars</strong>: Ryan Reynolds, Justice Smith, Kathryn Newton...
+ <strong>Stars</strong>: Dwayne Johnson, Jack Black, Kevin Hart...
  <br>
 </p>
 
