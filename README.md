@@ -34,12 +34,13 @@ img {
   <br>
   <div class="sub_headers">
     <h2><a href="#Home">Home</a></h2>
-    <h2><a href="#contact">Contact</a></h2>
+    <h2><a href="#Contact">Contact</a></h2>
     <h2><a href="#about">About</a></h2>
     <h2><a href="#top">top</a></h2>
   </div>
 </div>
 <hr>
+
 <a name="Home"></a>
 <br>
 <br>
@@ -47,6 +48,10 @@ img {
 <h1>Home</h1>
 
 <p>Since I don't know what to write, I just put some movies I like.</p>
+
+<br>
+<br>
+<br>
 
 <h1>Ready or Not <font size="-1">(2019)</font></h1>
 
@@ -123,7 +128,14 @@ img {
  <br>
 </p>
 
-<h1>Welcome</h1>
+<a name="Contact"></a>
+<br>
+<br>
+<br>
+<h1>Contact</h1>
+
+<p>Please check <a href="https://help.github.com/categories/github-pages-basics/">documentation</a> or <a href="https://github.com/contact">contact support</a> if you have any issue.</p>
+
 <h1>Welcome</h1>
 <a name="top"></a>
 <br>
@@ -135,7 +147,3 @@ img {
 
 </body>
 </html>
-
-### Contact
-
-Please check [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) if you have any issue.
