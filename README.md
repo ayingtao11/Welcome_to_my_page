@@ -67,6 +67,8 @@ img {
  <br>
  <strong>Stars</strong>: Samara Weaving, Adam Brody, Mark O'Brien...
  <br>
+ <br>
+ Want to see more? Visit <a href="https://www.imdb.com/title/tt7798634/">Ready or Not (2019) - IMDb</a> for more information.
 </p>
 
 <h1>Pokémon Detective Pikachu <font size="-1">(2019)</font></h1>
