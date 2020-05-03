@@ -15,8 +15,7 @@ h2 {
 }
 img {
  margin-top: 10px;
- display: inline-block;
- verticle-align:middle;
+ margin-bottom: 10px;
  }
 
 </style>
