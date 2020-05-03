@@ -83,7 +83,7 @@ img {
  <br>
  <strong>Stars</strong>: Ryan Reynolds, Justice Smith, Kathryn Newton...
  <br>
- <video width="1280" height="720" controls>
+ <video width="480" height="360" controls>
   <source src="https://www.imdb.com/video/vi3254238233?playlistId=tt5884052" type="video/mp4">
   </video>
  <br>
