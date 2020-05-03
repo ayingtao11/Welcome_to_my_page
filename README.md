@@ -135,7 +135,7 @@ img {
 <br>
 <h1>Contact</h1>
 
-<p>Please check <a href="https://help.github.com/categories/github-pages-basics/">documentation</a> or <a href="https://github.com/contact">contact support</a> if you have any issue.</p>
+<p>Please check <a href="https://help.github.com/categories/github-pages-basics/">documentation</a> or <a href="https://github.com/contact">contact support</a> of Github if you have any issue.</p>
 
 <h1>Welcome</h1>
 <a name="top"></a>
