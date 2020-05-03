@@ -58,7 +58,23 @@ img {
  <strong>Stars</strong>: Samara Weaving, Adam Brody, Mark O'Brien...
  <br>
 </p>
-<h1>Welcome</h1>
+
+<h1>Pokémon Detective Pikachu</h1>
+
+<img src="https://user-images.githubusercontent.com/61288928/80895493-a5633b80-8cb3-11ea-8fd5-e19aada4e0e0.jpg" alt="Image" height="400" width="300">
+<span>
+ When ace detective Harry Goodman goes missing, his son embarks on a journey with Detective Pikachu to find him.
+</span>
+<br>
+<p>
+ <strong>Director</strong>: Rob Letterman
+ <br>
+ <strong>Writers</strong>: Dan Hernandez (screenplay by), Benji Samit (screenplay by)...
+ <br>
+ <strong>Stars</strong>: Ryan Reynolds, Justice Smith, Kathryn Newton...
+ <br>
+</p>
+
 <h1>Welcome</h1>
 <h1>Welcome</h1>
 <h1>Welcome</h1>
