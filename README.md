@@ -18,9 +18,7 @@ img {
  display: inline-block;
  verticle-align:middle;
  }
- span {
- display: inline-block;
- }
+
 </style>
 </head>
 <body>
